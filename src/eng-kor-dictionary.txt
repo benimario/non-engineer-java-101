@@ -1,0 +1,8 @@
+chicken 닭
+anteater 개미핥기
+dog 개
+cat 고양이
+coffee 커피
+song 노래
+book 책
+box 상자
